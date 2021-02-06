@@ -1,3 +1,8 @@
+
+# sdrtrunk sdrplay support
+
+Experimental fork that incorporates work by @Sammy1Am to add support for SDRplay devices, plus further hackery by @dseven
+
 # sdrtrunk
 A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).
 
